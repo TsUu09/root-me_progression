@@ -10,6 +10,7 @@ Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes comp
 
 | Date       | Catégorie        | Challenge                    | Statut      | Notes / Apprentissage  |
 |------------|-----------------|------------------------------|-------------|------------------------|
+| 2025-03-21 | App - Script | sudo - faiblesse de configuration | ✅ |  |
 
 ---
 
