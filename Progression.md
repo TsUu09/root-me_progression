@@ -2,6 +2,8 @@
 
 Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes compétences en cybersécurité.
 
+> 🚀 **Profil Root-Me** : [Tsu](https://www.root-me.org/TsU09)
+
 ---
 
 ## 📊 Progression des Challenges
@@ -36,7 +38,6 @@ Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes comp
 
 ---
 
-> 🚀 **Profil Root-Me** : [Tsu](https://www.root-me.org/TsU09)
 
 📌 *Dernière mise à jour : 2025-03-21*
 
