@@ -1,4 +1,4 @@
-# 🚀 Suivi de ma progression Root-Me
+# 🧙 Suivi de ma progression Root-Me 🧙
 
 Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes compétences en cybersécurité.
 
@@ -8,10 +8,6 @@ Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes comp
 
 | Date       | Catégorie        | Challenge                    | Statut      | Notes / Apprentissage  |
 |------------|-----------------|------------------------------|-------------|------------------------|
-| 2025-03-21 | test | testnom | 2 | testcom |
-| 2025-03-21 | Web - Client    | Injection JS                 | ✅ Terminé  | XSS simple, manipulation DOM |
-| 2025-03-22 | Cryptanalyse    | Chiffrement César            | 🔄 En cours | Automatisation du décodage  |
-| 2025-03-23 | Forensic        | Analyse de fichier pcap      | ⏳ À faire  |                         |
 
 ---
 
@@ -36,7 +32,7 @@ Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes comp
 - [ ] Réussir au moins **5 challenges Web**
 - [ ] Compléter **3 challenges Forensic**
 - [ ] Automatiser la résolution de **2 challenges Crypto**
-- [ ] Obtenir **X points sur Root-Me**
+- [ ] Obtenir **1500 points sur Root-Me**
 
 ---
 
