@@ -17,23 +17,18 @@ Ce fichier me permet de suivre mon avancée sur Root-Me et d'améliorer mes comp
 
 - ✅ **Terminé** : Challenge complété avec succès.
 - 🔄 **En cours** : Challenge en cours de résolution.
-- ⏳ **À faire** : Challenge non commencé.
 
 ---
 
 ## 📝 Notes générales
 
-- 📌 **Ne jamais publier de solutions détaillées publiques**.
 - 🛠 **Prendre des notes sur chaque challenge pour mieux retenir**.
-- 🎯 **Objectif : progresser régulièrement et toucher à toutes les catégories**.
+- 🎯 **Objectif : toucher à toutes les catégories**.
 
 ---
 
 ## 🏆 Objectifs à long terme
 
-- [ ] Réussir au moins **5 challenges Web**
-- [ ] Compléter **3 challenges Forensic**
-- [ ] Automatiser la résolution de **2 challenges Crypto**
 - [ ] Obtenir **1500 points sur Root-Me**
 
 ---
